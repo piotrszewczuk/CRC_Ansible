@@ -44,4 +44,4 @@ Po pobraniu pliku Vagrantfile należy uruchomić terminal i wykonać następują
   
   Poprawne inicjalizowanie środowiska laboratoryjnego powinno zakończyć się uruchomieniem 4 maszyn wirtualnych widocznych w programie VirtualBox, tak jak na poniższym zrzucie ekranu.
 
-![](https://github.com/piotrszewczuk/CRC_Ansible/blob/main/images/CRC_Ansible_VirtualBox.png)
+![](Images/CRC_Ansible_VirtualBox.png)
