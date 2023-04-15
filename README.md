@@ -20,14 +20,11 @@ Dodatkowo należy pobrać i zainstalować następujące oprogramowanie:
 
 2. **Uruchomienie środowiska laboratoryjnego**
 
-Po instalacji wymaganego oprogramowania należy pobrać plik z definicją laboratoryjnego środowiska Ansible i zapisać go w lokalnym katalogu np. 'OpenSourceTech' na dysku C: (w sytemach MS Windows) lub w katalogu domowym użytkownika (w systemach Apple macOS i Linux):
+Po instalacji wymaganego oprogramowania należy należy utworzyć katalog np. "CRC2023-Ansible", w którym będzie znajdowała się konfiguracja środowiska laboratoryjnego, następnie uruchomić terminal, przejść do utworzonego katalogu i za pomocą polecenia git zsynchronizować repozytorium wykonując następujące polecenie w terminalu:
 
-- https://github.com/piotrszewczuk/CRC_Ansible/raw/main/Vagrantfile
-
-> **UWAGA !!!**
-> **Przy pobieraniu pliku "Vagrantfile" ważne jest, aby go zapisać w takiej postaci w jakiej jest udostępniony na stronie GitHub, bez żadnych rozszerzeń typu .txt, zmian itp. Najlepiej w przeglądarce internetowej, na wskazanym linku, wywołać menu kontekstowe i wybrać opcję "Zapisz link jako".**
-
-Po pobraniu pliku Vagrantfile należy uruchomić terminal i wykonać następujące polecenia: 
+> git clone https://github.com/piotrszewczuk/CRC_Ansible.git
+ 
+Po zsynchronizowaniu rapozytorium należy uruchomić w terminalu następujące polecenia: 
 
 - w systemie MS Windows
   
