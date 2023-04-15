@@ -4,10 +4,10 @@
 
 1. **Wymagane komponenty**
 
-Komputer PC z systemem operacyjnym MS Windows 10, Apple macOS lub Linux o następujących minimalnych parametrach:
+Komputer PC z systemem operacyjnym MS Windows 10(11), Apple macOS lub Linux o następujących minimalnych parametrach:
 
 - procesor min. 4 rdzeniowy lub 2 rdzeniowy z technologią Hyper-Threading i włączoną opcją wirtualizacji w BIOS / UEFI
-- min. 8 GB pamięci RAM
+- min. 16 GB pamięci RAM
 - min. 40 GB wolnej przestrzeni dyskowej
 
 Dodatkowo należy pobrać i zainstalować następujące oprogramowanie:
